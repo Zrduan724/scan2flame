@@ -14,7 +14,7 @@ import numpy as np
 import chumpy as ch
 import pickle as pickle
 
-from pytorch.fitting.util import load_binary_pickle
+from fitting.util import load_binary_pickle
 
 
 def load_embedding( file_path ):
